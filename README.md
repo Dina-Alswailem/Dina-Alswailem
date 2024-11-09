@@ -5,4 +5,4 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 -
-- Sharing updates on <a href="[https://www.linkedin.com/in/monicampowell/](https://www.linkedin.com/in/dina-alswailem-5a4786280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/dina-alswailem-5a4786280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a> 💼
