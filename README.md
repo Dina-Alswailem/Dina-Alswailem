@@ -1,6 +1,5 @@
 # Hi, I'm Dina Alswailem 👋🏻👩🏻‍💻
-
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell ">
+https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 I'm a computer science enthusiast passionate about making open-source contributions more accessible, creating technology to elevate people, and building collaborative communities. Some of the technologies I enjoy working with include Python, Java, PHP, and HTML/CSS. I am always exploring new frameworks and tools to push my skills and bring innovative ideas to life.
 
 
