@@ -9,7 +9,7 @@
 
 - 🎓 I’m currently a **student at [the Apple Developer Academy | TUWAIQ ](https://developeracademy.tuwaiq.edu.sa/)**  
   <a href="https://developeracademy.tuwaiq.edu.sa/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_white.svg" width="22" height="22" alt="Apple Logo White" />
+   
   </a>
   <span> — focusing on building innovative iOS apps and creative solutions.</span>
 
