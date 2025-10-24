@@ -7,9 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=dina-alswailem&label=Profile%20views&color=0e75b6&style=flat" alt="dina-alswailem" /> 
 </p>
 
-- 🎓 I’m currently a **student at the Apple Developer Academy**  
-  <a href="https://developeracademy.apple.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="22" height="22" alt="Apple Logo" />
+- 🎓 I’m currently a **student at the [Apple Developer Academy at Tuwaiq](https://developeracademy.tuwaiq.edu.sa/)**  
+  <a href="https://developeracademy.tuwaiq.edu.sa/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_white.svg" width="22" height="22" alt="Apple Logo White" />
   </a>
   <span> — focusing on building innovative iOS apps and creative solutions.</span>
 
