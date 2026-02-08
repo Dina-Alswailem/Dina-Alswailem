@@ -13,8 +13,7 @@
   </a>
   <span> — focusing on building innovative iOS apps and creative solutions.</span>
 
-- 🔭 I’m also a **volunteer** at the *Technology Club – Innovation and Entrepreneurship*.  
-- 🌱 I’m currently learning **Flutter** and **Swift**.  
+- 🌱 I’m currently learning **Python** and **Swift**.  
 - 👨‍💻 All of my projects are available at [GitHub – Dina Alswailem](https://github.com/Dina-Alswailem)  
 - 📫 How to reach me: **dena.i.s.s.1423@gmail.com**
 
