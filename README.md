@@ -15,7 +15,7 @@ src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif
 
 - 🎓 Computer Science graduate from **Imam Mohammad Ibn Saud Islamic University**
 
--  Graduate of the **Apple Developer Academy | Tuwaiq**, where I designed and developed user-centered iOS applications.
+- 🎓 Graduate of the **Apple Developer Academy | Tuwaiq** , where I designed and developed user-centered iOS applications.
 
 - 🎨 Passionate about **UI/UX Design**, creating simple, intuitive, and visually engaging digital experiences.
 
