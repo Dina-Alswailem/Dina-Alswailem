@@ -27,7 +27,7 @@ src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif
 
 - 👩🏻‍💻 Explore my projects on [GitHub – Dina Alswailem](https://github.com/Dina-Alswailem)
 
-- 🌐 View my portfolio: [dina-portfolio.dina1-4075.workers.dev](https://dina-portfolio.dina1-4075.workers.dev)
+- 🌐 View my portfolio: [dina-portfolio.dinaalswailem.workers.dev](https://dina-portfolio.dinaalswailem.workers.dev)
 
 - 📫 Reach me at **dena.i.s.s.1423@gmail.com**
 
