@@ -29,7 +29,7 @@ src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif
 
 - 🌐 View my portfolio: [dina-portfolio.dinaalswailem.workers.dev](https://dina-portfolio.dinaalswailem.workers.dev)
 
-- 📫 Reach me at **dena.i.s.s.1423@gmail.com**
+- 📫 Reach me at **dinaalswailem@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
